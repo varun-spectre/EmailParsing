@@ -1,7 +1,7 @@
 # EmailParsing
 
 # Objective
-Extracting "From Address" ,"subject" and "Body" fields from the .eml file 
+Extracting "From Address" ,"Subject" and "Body" fields from the .eml file 
 # Usecase
 In many banking sectors or any telecom sectors, user will send a mail to customer care services stating his problems or queries. 
 I wanted to create a virtualbot which processes user queries in email.
